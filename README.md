@@ -8,7 +8,7 @@
 
 3. Double click **`install.command`** to setup the working environment.
 
-4. Make sure you have installed [tesseract v3.05.02 or other versions above](https://github.com/tesseract-ocr/tesseract/wiki). If you haven't, double click **`install-tesseract.command`**
+4. If you haven't installed [tesseract v3.05.02 or other versions above](https://github.com/tesseract-ocr/tesseract/wiki), double click **`install-tesseract.command`** to install tesseract.
 
 
 ## OCR Steps
