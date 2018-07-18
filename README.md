@@ -14,7 +14,7 @@
 
 ## OCR Steps
 
-1. Put your images in the ocr-helper folder. The format should be `*tiff/tif/jpg/jpeg/png/gif/bmp*`.
+1. Put your images in the ocr-helper folder. The format should be *`tiff/tif/jpg/jpeg/png/gif/bmp`*.
 
 2. Double click **`ocr.command`** to OCR.
 
