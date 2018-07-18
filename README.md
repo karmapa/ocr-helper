@@ -8,9 +8,9 @@
 
 3. If you have installed node, double click **`install.command`** to install some software.
 
-4. Make sure you have install tesseract. https://github.com/tesseract-ocr/tesseract/wiki
+4. Make sure you have installed tesseract. https://github.com/tesseract-ocr/tesseract/wiki
 
-5. Make sure you have donwload the OCR rules for Tibetan. If not, double **`get-bod-rule.command`**
+5. Make sure you have donwloaded the OCR rules for Tibetan. If not, double **`get-bod-rule.command`**
 
 ## OCR Steps
 
