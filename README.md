@@ -2,15 +2,15 @@
 
 ## Preparation
 
-1. Make sure you have install node. https://nodejs.org/en/
-
-2. Make sure you have install tesseract. https://github.com/tesseract-ocr/tesseract/wiki
-
-## Installation
-
 1. Download this repository and unzip it. [Download Link](https://github.com/karmapa/ocr-helper/archive/master.zip)
 
-2. Double click **`install.command`** to install some software.
+2. Make sure you have installed node. https://nodejs.org/en/
+
+3. If you have installed node, double click **`install.command`** to install some software.
+
+4. Make sure you have install tesseract. https://github.com/tesseract-ocr/tesseract/wiki
+
+5. Make sure you have donwload the OCR rules for Tibetan. If not, double **`get-bod-rule.command`**
 
 ## OCR Steps
 
