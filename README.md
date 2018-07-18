@@ -2,11 +2,9 @@
 
 ## Preparation
 
-1. Make sure you have install node.
-https://nodejs.org/en/
+1. Make sure you have install node. https://nodejs.org/en/
 
-2. Make sure you have install tesseract.
-https://github.com/tesseract-ocr/tesseract/wiki
+2. Make sure you have install tesseract. https://github.com/tesseract-ocr/tesseract/wiki
 
 ## Installation
 
