@@ -8,9 +8,7 @@
 
 ## Installation
 
-1. Download this repository and unzip it.
-
-[Download Link](https://github.com/karmapa/ocr-helper/archive/master.zip)
+1. Download this repository and unzip it. [Download Link](https://github.com/karmapa/ocr-helper/archive/master.zip)
 
 2. Double click this file to install some software.
 
