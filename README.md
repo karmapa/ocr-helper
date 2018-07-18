@@ -10,16 +10,12 @@
 
 1. Download this repository and unzip it. [Download Link](https://github.com/karmapa/ocr-helper/archive/master.zip)
 
-2. Double click this file to install some software.
-
-**install.command**
+2. Double click `**install.command**` to install some software.
 
 ## OCR Steps
 
-1. Put your images in the ocr-helper folder. The format should be *tiff/tif/jpg/jpeg/png/gif/bmp*.
+1. Put your images in the ocr-helper folder. The format should be `*tiff/tif/jpg/jpeg/png/gif/bmp*`.
 
-2. Double click this file to OCR.
+2. Double click `**ocr.command**` to OCR.
 
-**ocr.command**
-
-3. The result will be in the **OCR-result.txt**.
+3. The result will be in the `**OCR-result.txt**`.
